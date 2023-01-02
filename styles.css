@@ -1,0 +1,70 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    margin: 10% 10%;
+}
+
+
+.container {
+    padding: 10px;
+    border: 2px solid #a2a2a6;
+    margin: 10px auto;
+}
+
+.color-container {
+
+}
+
+.color-panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 20px auto;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.white {
+    background-color: white;
+    color: black;
+}
+
+.sky-blue {
+    background-color: #87ceeb;
+    color: black
+}
+
+.font-panel {
+    width: 40%;
+    display: inline-block;
+    margin: 20px 20px; 
+    position:relative;
+    margin-top: 0px;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style:italic;
+}
+
+.regular{
+    font-style: normal;
+}
+
+.Roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.Raleway {
+    font-family: 'Raleway', sans-serif;
+}
